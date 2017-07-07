@@ -3,9 +3,9 @@ module Mail
   module VERSION
 
     MAJOR = 2
-    MINOR = 7
-    PATCH = 0
-    BUILD = 'rc1'
+    MINOR = 5
+    PATCH = 999
+    BUILD = 'gr'
 
     STRING = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
 
